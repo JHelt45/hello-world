@@ -1,4 +1,4 @@
 # hello-world
 hello world tutorial
-#about-me
-github is confusing
+# about-me
+My name is Jason
